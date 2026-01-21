@@ -1,3 +1,6 @@
+#
+# Control scripts in a working state. Previously titled "YawAndForward.ino".
+#
 #include <HardwareSerial.h>
 #include "Arduino.h"
 #include "Libraries/common/mavlink.h"
