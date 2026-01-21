@@ -1,3 +1,6 @@
+#
+# A combination of drone control scripts and machine-learning scripts. Currently non-functional.
+#
 #include <HardwareSerial.h>
 #include "Arduino.h"
 #include "Libraries/common/mavlink.h"
